@@ -2,7 +2,7 @@
 OpenGL Python implementation
 
 ## Instrucciones
-1. Ejecutar archivo con el nombre .py
+1. Ejecutar archivo con el nombre opengl.py
 
 ## Input
 - Movimiento a los Lados: A, D
